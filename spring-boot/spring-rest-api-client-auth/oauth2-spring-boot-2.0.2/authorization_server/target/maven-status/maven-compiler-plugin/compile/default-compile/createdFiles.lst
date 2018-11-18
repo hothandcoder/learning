@@ -1,0 +1,12 @@
+com/aak/repository/CredentialRepository.class
+com/aak/utils/Utils.class
+com/aak/domain/Credentials.class
+com/aak/configuration/JdbcUserDetails.class
+com/aak/configuration/WebSecurityConfiguration.class
+com/aak/configuration/AuthorizationServerConfiguration.class
+com/aak/domain/Authority.class
+com/aak/api/ClientsController.class
+com/aak/api/LoginController.class
+com/aak/configuration/SplitCollectionEditor.class
+com/aak/configuration/AuthorityPropertyEditor.class
+com/aak/AuthorizationServerApplication.class

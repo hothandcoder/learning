@@ -1,0 +1,12 @@
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/api/LoginController.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/configuration/AuthorityPropertyEditor.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/repository/CredentialRepository.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/domain/Credentials.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/configuration/JdbcUserDetails.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/domain/Authority.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/utils/Utils.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/configuration/WebSecurityConfiguration.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/configuration/AuthorizationServerConfiguration.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/api/ClientsController.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/configuration/SplitCollectionEditor.java
+/Users/haibo/Documents/temp/spring/oauth2-spring-boot-2.0.2/authorization_server/src/main/java/com/aak/AuthorizationServerApplication.java
