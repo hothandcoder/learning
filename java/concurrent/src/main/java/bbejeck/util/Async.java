@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Async {
 
-	//test
+	//test level 2
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CompletableFuture<Void> future = CompletableFuture.runAsync(new Runnable() {
